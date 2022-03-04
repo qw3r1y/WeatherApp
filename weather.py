@@ -6,7 +6,7 @@ from PIL import ImageTk,Image
 import requests
 
 url = 'https://api.openweathermap.org/data/2.5/weather'
-api_key="372f43c127e0ac59ac2707cce76dd5f3"
+api_key="enter your api key here"
 iconUrl="http://openweathermap.org/img/wn/{}@2x.png"
 
 def getWeather(city):
